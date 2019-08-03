@@ -14,6 +14,8 @@ import json
 import warnings
 import io
 
+import tensorflow as tf
+
 from collections import deque
 from collections import OrderedDict
 from collections import Iterable
